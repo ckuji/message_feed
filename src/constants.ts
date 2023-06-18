@@ -1,0 +1,1 @@
+export const BASE_URL = "http://a0830433.xsph.ru/"
